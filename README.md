@@ -1,3 +1,7 @@
+![Screenshot of app](https://github.com/user-attachments/assets/edbc9c22-de4d-44b9-9c8a-bca34d891329)
+
+INSTALL INSTRUCTIONS
+----
 Download all files and save into a folder.
 
 Follow instructions as per Google to add an unallowed extension: https://knowledge.workspace.google.com/kb/load-unpacked-extensions-000005962
