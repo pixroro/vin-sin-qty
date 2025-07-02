@@ -1,4 +1,4 @@
-![Screenshot of app](https://github.com/user-attachments/assets/edbc9c22-de4d-44b9-9c8a-bca34d891329)
+![image](https://github.com/user-attachments/assets/7dfd0ae7-5b73-4167-8fd5-342f68179cbd)
 
 INSTALL INSTRUCTIONS
 ----
