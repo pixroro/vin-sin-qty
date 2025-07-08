@@ -23,3 +23,5 @@ Follow instructions as per Google to add an unallowed extension (and choose the 
 As for using the app, navigate to the page you want to know the inventory of and click on the extension and you will get the quantity.
 
 If there is only one option, the result will mention "Default". If the item is out of stock, no results will be given.
+
+Currently, it seems that no more than 2001 copies of an item will be shows.
